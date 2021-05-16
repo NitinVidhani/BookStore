@@ -1,0 +1,3 @@
+serviceTest/BookServiceTest.class
+serviceTest/FavServiceTest.class
+jwt/controllerTest/FavControllerTest.class
